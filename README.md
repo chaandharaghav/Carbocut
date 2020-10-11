@@ -5,7 +5,7 @@ This repository contains the necessary files of the project we (registered under
 
 Team ID : 906062
 
-Theme : Open Challenge problem statment given by Avian Design
+Theme : Open Challenge problem statement given by Avian Design
 
 Link for the web application : https://sites.google.com/view/carbocut
 
